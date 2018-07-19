@@ -2,5 +2,5 @@
 
 To Run Locally:
 1. Clone/ Download this repository
-2.Run npm install
-3. Run 'node server.js'
+2.Run `npm install`
+3. Run '`node server.js`' OR '`npm start`'

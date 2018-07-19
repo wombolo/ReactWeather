@@ -7,7 +7,7 @@ var React = require('react');
 //         );
 //     }
 // });
-
+//Bacomes =>
 var About = function(props){
     return (
         <div>
